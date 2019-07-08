@@ -14,5 +14,11 @@ Obligatory introduction to vue.
 - Type in following code:
 
   ```js
-  app.name = '<your name here>'
+  app.name = "<your name here>";
   ```
+
+## Codesandbox Playground
+
+Use below codesanbox template to playaround with code \
+\
+[![Edit 01-hello-vue](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/01-hello-vue-uzhyq?fontsize=14)
