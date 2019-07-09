@@ -14,3 +14,9 @@ Sharing data/state between components.
 
 - Add `title` prop
 - Emit `done` event
+
+## Codesandbox Playground
+
+Use below codesandbox template to playaround with code \
+\
+[![Edit 08-component-communication](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/08-component-communication-t4p83?fontsize=14)
