@@ -10,3 +10,9 @@ Attaching DOM event listeners in template. [https://vuejs.org/v2/guide/events.ht
 
 - Use `v-on` directive to add `click` handler
 - Use `v-on` directive to add `mousedown` handler
+
+## Codesandbox Playground
+
+Use below codesanbox template to playaround with code \
+\
+[![Edit 03-event-binding](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/03-event-binding-7elt0?fontsize=14)
