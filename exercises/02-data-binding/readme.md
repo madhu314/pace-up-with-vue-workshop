@@ -15,6 +15,6 @@ Using state from JavaScript in template. [https://vuejs.org/v2/guide/syntax.html
 
 ## Codesandbox Playground
 
-Use below codesanbox template to playaround with code \
+Use below codesandbox template to playaround with code \
 \
 [![Edit 02-data-binding](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/02-data-binding-vhc7o?fontsize=14)
